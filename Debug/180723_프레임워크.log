@@ -1,0 +1,41 @@
+﻿빌드 시작: 2018-07-27 오후 3:20:48
+     1>2 노드의 "D:\10617소전_이주형\180723_프레임워크\180723_프레임워크\180723_프레임워크.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Player.cpp
+         Player.cpp
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(11): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(14): warning C4244: '=' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(15): warning C4244: '=' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(16): warning C4244: '=' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(17): warning C4244: '=' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(48): warning C4305: '-=' : 'double'에서 'float'(으)로 잘립니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(55): warning C4244: '=' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(61): warning C4305: '+=' : 'double'에서 'float'(으)로 잘립니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(68): warning C4244: '=' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(86): warning C4244: '인수' : 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>d:\10617소전_이주형\180723_프레임워크\180723_프레임워크\player.cpp(113): warning C4244: '=' : 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\10617소전_이주형\180723_프레임워크\Debug\180723_프레임워크.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\10617소전_이주형\180723_프레임워크\Debug\180723_프레임워크.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\10617소전_이주형\180723_프레임워크\Debug\180723_프레임워크.lib" /MACHINE:X86 Debug\Bullet.obj
+         Debug\BulletManager.obj
+         Debug\Button.obj
+         Debug\CText.obj
+         Debug\EndScene.obj
+         Debug\Enemy.obj
+         Debug\EnemyA.obj
+         Debug\EnemyB.obj
+         Debug\EnemyManager.obj
+         Debug\GameScene.obj
+         Debug\IObject.obj
+         Debug\main.obj
+         Debug\myFunction.obj
+         Debug\Player.obj
+         Debug\Sprite.obj
+         Debug\Timer.obj
+         Debug\TitleScene.obj
+         Debug\WinFrame.obj
+         180723_프레임워크.vcxproj -> D:\10617소전_이주형\180723_프레임워크\Debug\180723_프레임워크.exe
+     1>"D:\10617소전_이주형\180723_프레임워크\180723_프레임워크\180723_프레임워크.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.84
